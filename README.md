@@ -1,57 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on Flutter mobile apps with Firebase & REST APIs<br>🤝 I’m looking to collaborate on open-source Flutter projects<br>🌱 I’m currently learning Advanced State Management (Bloc & Provider) and Clean Architecture  <br>💬 Ask me about Flutter, Dart, Firebase, APIs, Clean Code, SOLID Principles <br>⚡ Fun fact: I enjoy solving coding challenges & optimizing performance in apps 🚀  <br>
 
-# 👋 Hi, I'm Hossam Mahmoud  
-### Software Engineer | Flutter Developer
 
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hossammahmoud.gado) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hossam-mahmoud-gado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossammahmoudgado@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HossamGado&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HossamGado&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HossamGado&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-##  About Me
-- 🔭 I build elegant and performant mobile apps with **Flutter**.
-- 🌱 Passionate about writing **clean code**, using **design patterns**, and mastering **OOP** & **data structures**.
-- 💬 I love diving into backend integrations, APIs, and Firebase-backed features.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HossamGado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🛠 Skills  
-
-### 🖥️ Core (Main Stack)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)  
-
----
-
-### ⚡ Frameworks & Tools  
-![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat) ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-0078D7?style=flat) ![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat) ![HTTPS](https://img.shields.io/badge/HTTPS-00599C?style=flat&logo=letsencrypt&logoColor=white) ![API](https://img.shields.io/badge/API-009688?style=flat&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HossamGado&icon=6&color=0)](https://visitcount.itsvg.in)
 
-### 📚 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-
----
-
-### 🎯 Concepts  
-![Clean Code](https://img.shields.io/badge/Clean%20Code-21A366?style=flat) ![SOLID](https://img.shields.io/badge/SOLID%20Principles-02569B?style=flat) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-512BD4?style=flat) ![OOP](https://img.shields.io/badge/OOP-orange?style=flat) ![Data Structures](https://img.shields.io/badge/Data%20Structures-007396?style=flat) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5722?style=flat) ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-512BD4?style=flat&logo=flutter&logoColor=white)  
-
-
----
-
-##  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HossamGado&show_icons=true&theme=dark&hide_border=true" alt="Hossam's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamGado&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%"/>
-</div>
-
->  **Repositories**: 16    **Role**: Mobile App Dev (Flutter)
-
----
-
-##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hossam%20Mahmoud-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hossam-mahmoud-gado)
-[![Email](https://img.shields.io/badge/Email-hossammahmoudgado%40gmail.com-red?style=flat&logo=gmail)](mailto:hossammahmoudgado@gmail.com)
-
----
-
-⭐ From [HossamGado](https://github.com/HossamGado)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
