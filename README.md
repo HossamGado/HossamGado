@@ -49,8 +49,8 @@
 ---
 
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hossam%20Mahmoud-blue?style=flat&logo=linkedin)](www.linkedin.com/in/hossam-mahmoud-gado)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:yourmail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hossam%20Mahmoud-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hossam-mahmoud-gado)
+[![Email](https://img.shields.io/badge/Email-hossammahmoudgado%40gmail.com-red?style=flat&logo=gmail)](mailto:hossammahmoudgado@gmail.com)
 
 ---
 
